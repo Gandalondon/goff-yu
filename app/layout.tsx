@@ -33,7 +33,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" className={dmSans.className}>
+    <html lang="en-GB" className={dmSans.className}>
       <body>
         <ScrollToTop />
         <Nav />
